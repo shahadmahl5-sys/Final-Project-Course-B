@@ -1,0 +1,19 @@
+The libraries I used: (Course B)
+	1.	pandas
+
+	2.	numpy
+
+	3.	matplotlib
+
+	4.	re
+
+	5.	nltk (stopwords)
+
+	6.	scikit-learn (train_test_split, TfidfVectorizer, LogisticRegression,
+	7.	   RandomForestClassifier, DecisionTreeClassifier, accuracy_score,
+	8.	   precision_score, recall_score, f1_score, classification_report,
+	9.	   confusion_matrix, ConfusionMatrixDisplay)
+
+	10.	tensorflow (Sequential, Dense, Dropout)
+
+	11.	gradio
